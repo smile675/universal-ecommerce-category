@@ -29,7 +29,8 @@ This table represents the hierarchy of categories in your project, with the "Lev
 
 ## How to Create Table in MySQL Using this Category List using csv file
 
-step1: Install MySQL and create a schema.
+step1: Install MySQL and create a schema:
+
 step2: Select the schema and create a table with the following structure:
 
 ```sql
