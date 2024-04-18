@@ -1,0 +1,1440 @@
+id,name,parent_id,level,description,image,meta_data,slug
+100,Women Clothes,0,1,0,0,0,0
+10010,Tops,100,2,0,0,0,0
+1001010,Tanks & Camisoles,10010,3,0,0,0,0
+1001011,Tube Tops,10010,3,0,0,0,0
+1001012,T-shirts,10010,3,0,0,0,0
+1001013,Shirts & Blouses,10010,3,0,0,0,0
+1001014,Polo Shirts,10010,3,0,0,0,0
+1001015,Bodysuits,10010,3,0,0,0,0
+10011,Pants & Leggings,100,2,0,0,0,0
+1001110,Leggings & Treggings,10011,3,0,0,0,0
+1001111,Pants,10011,3,0,0,0,0
+10012,Shorts,100,2,0,0,0,0
+1001210,Shorts,10012,3,0,0,0,0
+1001211,Skorts,10012,3,0,0,0,0
+10013,Skirts,100,2,0,0,0,0
+10014,Jeans,100,2,0,0,0,0
+10015,Dresses,100,2,0,0,0,0
+10016,Wedding Dresses,100,2,0,0,0,0
+10017,"Jumpsuits, Playsuits & Overalls",100,2,0,0,0,0
+1001710,Jumpsuits,10017,3,0,0,0,0
+1001711,Playsuits,10017,3,0,0,0,0
+1001712,Overalls,10017,3,0,0,0,0
+10018,"Jackets, Coats & Vests",100,2,0,0,0,0
+1001810,Winter Jackets & Coats,10018,3,0,0,0,0
+1001811,Capes,10018,3,0,0,0,0
+1001812,Blazers,10018,3,0,0,0,0
+1001813,Jackets,10018,3,0,0,0,0
+1001814,Vests,10018,3,0,0,0,0
+10019,Sweaters & Cardigans,100,2,0,0,0,0
+10020,Hoodies & Sweatshirts,100,2,0,0,0,0
+1002010,Sweatshirts,10020,3,0,0,0,0
+1002011,Hoodies,10020,3,0,0,0,0
+10021,Sets,100,2,0,0,0,0
+1002110,Couple Sets,10021,3,0,0,0,0
+1002111,Family Sets,10021,3,0,0,0,0
+1002112,Individual Sets,10021,3,0,0,0,0
+10022,Lingerie & Underwear,100,2,0,0,0,0
+1002210,Sets,10022,3,0,0,0,0
+1002211,Bras,10022,3,0,0,0,0
+1002212,Panties,10022,3,0,0,0,0
+1002213,Thermal Innerwear,10022,3,0,0,0,0
+1002214,Bra Accessories,10022,3,0,0,0,0
+100221410,Straps,1002214,4,0,0,0,0
+100221411,Paddings,1002214,4,0,0,0,0
+100221412,Nipple Stickers,1002214,4,0,0,0,0
+1002215,Shapewear,10022,3,0,0,0,0
+1002216,Safety Pants,10022,3,0,0,0,0
+1002217,Sexy Lingerie,10022,3,0,0,0,0
+10023,Sleepwear & Pajamas,100,2,0,0,0,0
+1002310,Pajamas,10023,3,0,0,0,0
+1002311,Night Dresses,10023,3,0,0,0,0
+1002312,Kimonos & Robes,10023,3,0,0,0,0
+10024,Maternity Wear,100,2,0,0,0,0
+1002410,Nursing Bras,10024,3,0,0,0,0
+1002411,Maternity Dresses,10024,3,0,0,0,0
+1002412,Maternity Tops,10024,3,0,0,0,0
+1002413,Breastfeeding Wear,10024,3,0,0,0,0
+1002414,Maternity Sets,10024,3,0,0,0,0
+1002415,Maternity Bottoms,10024,3,0,0,0,0
+10025,"	Traditional Wear",100,2,0,0,0,0
+1002510,Tops,10025,3,0,0,0,0
+1002511,Bottoms,10025,3,0,0,0,0
+1002512,Sets,10025,3,0,0,0,0
+1002513,Dresses,10025,3,0,0,0,0
+1002514,Others,10025,3,0,0,0,0
+10026,Costumes,100,2,0,0,0,0
+10027,Fabric,100,2,0,0,0,0
+1002710,Batik,10027,3,0,0,0,0
+1002711,Kebaya,10027,3,0,0,0,0
+1002712,Cotton,10027,3,0,0,0,0
+1002713,Wool,10027,3,0,0,0,0
+1002714,"Velvet, Silk & Satin",10027,3,0,0,0,0
+1002715,Leather,10027,3,0,0,0,0
+1002716,Vinyl & Nylon,10027,3,0,0,0,0
+1002717,Denim,10027,3,0,0,0,0
+1002718,Canvas,10027,3,0,0,0,0
+1002719,Kain Pasang,10027,3,0,0,0,0
+1002720,Songket,10027,3,0,0,0,0
+10028,Socks & Stockings,100,2,0,0,0,0
+1002810,Socks,10028,3,0,0,0,0
+1002811,Pantyhose,10028,3,0,0,0,0
+101,Men Clothes,0,1,0,0,0,0
+10110,Jeans,101,2,0,0,0,0
+10111,Hoodies & Sweatshirts,101,2,0,0,0,0
+1011110,Hoodies,10111,3,0,0,0,0
+1011111,Sweatshirts,10111,3,0,0,0,0
+10112,Sweaters & Cardigans,101,2,0,0,0,0
+10113,"Jackets, Coats & Vests",101,2,0,0,0,0
+1011310,Winter Jackets & Coats,10113,3,0,0,0,0
+1011311,Jackets,10113,3,0,0,0,0
+1011312,Vests,10113,3,0,0,0,0
+10114,Suits,101,2,0,0,0,0
+1011410,Suit Sets,10114,3,0,0,0,0
+1011411,Suit Jackets & Blazers,10114,3,0,0,0,0
+1011412,Suit Pants,10114,3,0,0,0,0
+1011413,Suit Vests & Waistcoats,10114,3,0,0,0,0
+10115,Pants,101,2,0,0,0,0
+1011510,Cargo,10115,3,0,0,0,0
+1011511,Joggers,10115,3,0,0,0,0
+1011512,Pants,10115,3,0,0,0,0
+10116,Tops,101,2,0,0,0,0
+1011610,Shirts,10116,3,0,0,0,0
+1011611,Polo Shirts,10116,3,0,0,0,0
+1011612,T-Shirts,10116,3,0,0,0,0
+1011613,Tanks,10116,3,0,0,0,0
+10117,Innerwear & Underwear,101,2,0,0,0,0
+1011710,Underwear,10117,3,0,0,0,0
+1011711,Undershirts,10117,3,0,0,0,0
+1011712,Thermal Innerwear,10117,3,0,0,0,0
+10118,Sleepwear,101,2,0,0,0,0
+10119,Sets,101,2,0,0,0,0
+10120,Traditional Wear,101,2,0,0,0,0
+1012010,Tops,10120,3,0,0,0,0
+1012011,Bottoms,10120,3,0,0,0,0
+1012012,Sets,10120,3,0,0,0,0
+10121,Costumes,101,2,0,0,0,0
+10122,Occupational Attire,101,2,0,0,0,0
+10123,Socks,101,2,0,0,0,0
+102,Beauty,0,1,0,0,0,0
+10210,"Hand, Foot & Nail Care",102,2,0,0,0,0
+1021010,Nail Care,10210,3,0,0,0,0
+102101010,Artificial Nail,1021010,4,0,0,0,0
+102101011,Nail Art & Sticker,1021010,4,0,0,0,0
+102101012,Manicure Tools & Devices,1021010,4,0,0,0,0
+10211,Men's Care,102,2,0,0,0,0
+1021110,Shaving & Grooming,10211,3,0,0,0,0
+102111010,Razors & Blades,1021110,4,0,0,0,0
+102111011,Shaving Accessories,1021110,4,0,0,0,0
+10212,Makeup,102,2,0,0,0,0
+1021210,Face,10212,3,0,0,0,0
+102121010,Blush,1021210,4,0,0,0,0
+10213,Beauty Tools,102,2,0,0,0,0
+1021310,Makeup Accessories,10213,3,0,0,0,0
+102131010,Makeup Bags & Organizers,1021310,4,0,0,0,0
+102131011,Mirrors,1021310,4,0,0,0,0
+102131012,Makeup Brush Cleaners,1021310,4,0,0,0,0
+102131013,Sponges & Applicators,1021310,4,0,0,0,0
+102131014,Eyelash Curlers,1021310,4,0,0,0,0
+102131015,Eyebrow Templates,1021310,4,0,0,0,0
+102131016,False Eyelashes,1021310,4,0,0,0,0
+102131017,Pencil Sharpeners,1021310,4,0,0,0,0
+1021311,Facial Care Tools,10213,3,0,0,0,0
+102131110,Facial Steamers,1021311,4,0,0,0,0
+102131111,Facial Slimming & Massage Tools,1021311,4,0,0,0,0
+102131112,Facial Cleansing Tools,1021311,4,0,0,0,0
+1021312,Body Slimming Tools,10213,3,0,0,0,0
+1021313,Hair Removal Tools,10213,3,0,0,0,0
+1021314,Hair Tools,10213,3,0,0,0,0
+102131410,Brushes & Combs,1021314,4,0,0,0,0
+102131411,Hair Styling Appliances,1021314,4,0,0,0,0
+102131412,Heatless Styling Tools,1021314,4,0,0,0,0
+102131413,Others,1021314,4,0,0,0,0
+1021315,Others,10213,3,0,0,0,0
+103,Health,0,1,0,0,0,0
+10310,Medical Supplies,103,2,0,0,0,0
+1031010,Health Monitors & Tests,10310,3,0,0,0,0
+103101010,Blood Glucose Monitors,1031010,4,0,0,0,0
+103101011,Pulse Oximeters,1031010,4,0,0,0,0
+103101012,Thermometers,1031010,4,0,0,0,0
+103101013,Others,1031010,4,0,0,0,0
+1031011,Scale & Body Fat Analyzers,10310,3,0,0,0,0
+1031012,Stethoscopes,10310,3,0,0,0,0
+1031013,Laboratory Tools,10310,3,0,0,0,0
+1031014,Injury & Disability Support,10310,3,0,0,0,0
+103101410,Walking Aids,1031014,4,0,0,0,0
+103101411,Wheelchairs,1031014,4,0,0,0,0
+103101412,Braces & Supports,1031014,4,0,0,0,0
+103101413,Hearing Aids,1031014,4,0,0,0,0
+10311,Personal Care,103,2,0,0,0,0
+1031110,Eye Care,10311,3,0,0,0,0
+1031111,Oral Care,10311,3,0,0,0,0
+103111110,Denture Care,1031111,4,0,0,0,0
+103111111,Orthodontic Accessories,1031111,4,0,0,0,0
+103111112,Others,1031111,4,0,0,0,0
+1031112,Feminine Care,10311,3,0,0,0,0
+1031113,Massage & Therapy Devices,10311,3,0,0,0,0
+1031114,Insect Repellents,10311,3,0,0,0,0
+104,Fashion Accessories,0,1,0,0,0,0
+10410,Rings,104,2,0,0,0,0
+10411,Earrings,104,2,0,0,0,0
+10412,Scarves & Shawls,104,2,0,0,0,0
+10413,Gloves,104,2,0,0,0,0
+10414,Hair Accessories,104,2,0,0,0,0
+1041410,Headbands,10414,3,0,0,0,0
+1041411,"Hair Ties, Ribbons & Scrunchies",10414,3,0,0,0,0
+1041412,Hair Clips & Hair Pins,10414,3,0,0,0,0
+1041413,Wigs & Extensions,10414,3,0,0,0,0
+1041414,"Headpieces, Tiaras & Flower Crowns",10414,3,0,0,0,0
+10415,Bracelets & Bangles,104,2,0,0,0,0
+10416,Anklets,104,2,0,0,0,0
+10417,Hats & Caps,104,2,0,0,0,0
+10418,Necklaces,104,2,0,0,0,0
+10419,Eyewear,104,2,0,0,0,0
+1041910,Sunglasses,10419,3,0,0,0,0
+1041911,Frames & Glasses,10419,3,0,0,0,0
+1041912,Eyewear Cases & Accessories,10419,3,0,0,0,0
+10420,Investment Precious Metals,104,2,0,0,0,0
+1042010,Platinum & K Gold,10420,3,0,0,0,0
+1042011,Silver,10420,3,0,0,0,0
+1042012,Diamond,10420,3,0,0,0,0
+1042013,Jade,10420,3,0,0,0,0
+1042014,Others,10420,3,0,0,0,0
+10421,Belts,104,2,0,0,0,0
+10422,"Neckties, Bow Ties & Cravats",104,2,0,0,0,0
+10423,Additional Accessories,104,2,0,0,0,0
+1042310,Brooches & Pins,10423,3,0,0,0,0
+1042311,Patches,10423,3,0,0,0,0
+1042312,"Charms, Pendants & Ornaments",10423,3,0,0,0,0
+1042313,Cufflinks,10423,3,0,0,0,0
+1042314,Tattoos,10423,3,0,0,0,0
+1042315,Masks,10423,3,0,0,0,0
+1042316,Handkerchiefs,10423,3,0,0,0,0
+1042317,Others,10423,3,0,0,0,0
+10424,Accessories Sets & Packages,104,2,0,0,0,0
+105,Home Appliances,0,1,0,0,0,0
+10510,Projectors & Accessories,105,2,0,0,0,0
+1051010,Projectors & Projector Screens,10510,3,0,0,0,0
+1051011,Pointers,10510,3,0,0,0,0
+1051012,Others,10510,3,0,0,0,0
+10511,Small Household Appliances,105,2,0,0,0,0
+1051110,Foot Baths & Spas,10511,3,0,0,0,0
+1051111,Water Flossers,10511,3,0,0,0,0
+1051112,Sewing Machines & Accessories,10511,3,0,0,0,0
+1051113,Telephones,10511,3,0,0,0,0
+105111310,Corded Phones,1051113,4,0,0,0,0
+105111311,Cordless Phones,1051113,4,0,0,0,0
+105111312,Fax Machines,1051113,4,0,0,0,0
+1051114,Irons & Steamers,10511,3,0,0,0,0
+1051115,Air Treatment,10511,3,0,0,0,0
+105111510,Purifiers,1051115,4,0,0,0,0
+105111511,Dehumidifiers,1051115,4,0,0,0,0
+1051116,"	
+Vacuum Cleaners & Floor Care Appliances",10511,3,0,0,0,0
+1051117,Others,10511,3,0,0,0,0
+10512,Large Household Appliances,105,2,0,0,0,0
+1051210,Washing Machines & Dryers,10512,3,0,0,0,0
+105121010,Washing Machines,1051210,4,0,0,0,0
+105121011,Laundry Dryers,1051210,4,0,0,0,0
+1051211,Water Heaters,10512,3,0,0,0,0
+1051212,Cooling,10512,3,0,0,0,0
+105121210,Air-Conditioners,1051212,4,0,0,0,0
+105121211,Air Coolers & Portable Aircons,1051212,4,0,0,0,0
+105121212,Fans,1051212,4,0,0,0,0
+1051213,Futon & Shoe Dryers,10512,3,0,0,0,0
+1051214,Heaters,10512,3,0,0,0,0
+10513,TVs & Accessories,105,2,0,0,0,0
+1051310,TVs,10513,3,0,0,0,0
+1051311,TV Antennas,10513,3,0,0,0,0
+1051312,TV Boxes & Receivers,10513,3,0,0,0,0
+1051313,TV Brackets,10513,3,0,0,0,0
+1051314,Others,10513,3,0,0,0,0
+10514,Kitchen Appliances,105,2,0,0,0,0
+1051410,"Water Filters, Coolers & Dispensers",10514,3,0,0,0,0
+1051411,Kettles,10514,3,0,0,0,0
+1051412,Wine Fridges,10514,3,0,0,0,0
+1051413,"Juicers, Blenders & Soya Bean Machines",10514,3,0,0,0,0
+1051414,Coffee Machines & Accessories,10514,3,0,0,0,0
+1051415,Mixers,10514,3,0,0,0,0
+1051416,Dishwashers,10514,3,0,0,0,0
+1051417,"Stoves, Hobs & Gas Regulators",10514,3,0,0,0,0
+1051418,Air Fryers,10514,3,0,0,0,0
+1051419,Deep Fryers,10514,3,0,0,0,0
+1051420,Microwaves,10514,3,0,0,0,0
+1051421,Ovens,10514,3,0,0,0,0
+1051422,Toasters,10514,3,0,0,0,0
+1051423,Food Processors & Meat Grinders,10514,3,0,0,0,0
+1051424,Multi-function Cookers,10514,3,0,0,0,0
+1051425,Pressure Cookers,10514,3,0,0,0,0
+1051426,Slow Cookers & Sous Vide Machines,10514,3,0,0,0,0
+1051427,Rice Cookers,10514,3,0,0,0,0
+1051428,Specialty Cookware,10514,3,0,0,0,0
+105142810,Waffle & Crepe Makers,1051428,4,0,0,0,0
+105142811,Egg Boilers,1051428,4,0,0,0,0
+105142812,Bread Makers,1051428,4,0,0,0,0
+105142813,Takoyaki Makers,1051428,4,0,0,0,0
+105142814,Dessert Machine,1051428,4,0,0,0,0
+105142815,Soda Makers,1051428,4,0,0,0,0
+105142816,Others,1051428,4,0,0,0,0
+1051429,Refrigerators,10514,3,0,0,0,0
+1051430,Freezers,10514,3,0,0,0,0
+1051431,Hoods,10514,3,0,0,0,0
+10515,Electrical Circuitry & Parts,105,2,0,0,0,0
+1051510,Electric Sockets & Extension Cords,10515,3,0,0,0,0
+1051511,Electrical Safety,10515,3,0,0,0,0
+1051512,Electricity Savers,10515,3,0,0,0,0
+1051513,Doorbells,10515,3,0,0,0,0
+1051514,Switches,10515,3,0,0,0,0
+1051515,House Alarms,10515,3,0,0,0,0
+1051516,Lightning Protection,10515,3,0,0,0,0
+10516,Batteries,105,2,0,0,0,0
+10517,Remote Controls,105,2,0,0,0,0
+106,Men Shoes,0,1,0,0,0,0
+10610,Boots,106,2,0,0,0,0
+1061010,Fashion Boots,10610,3,0,0,0,0
+1061011,Rain Boots,10610,3,0,0,0,0
+1061012,Safety Boots,10610,3,0,0,0,0
+10611,Sneakers,106,2,0,0,0,0
+10612,Slip Ons & Mules,106,2,0,0,0,0
+10613,Loafers & Boat Shoes,106,2,0,0,0,0
+10614,Oxfords & Lace-Ups,106,2,0,0,0,0
+10615,Sandals & Flip Flops,106,2,0,0,0,0
+1061510,Sandals,10615,3,0,0,0,0
+1061511,Indoor Slippers,10615,3,0,0,0,0
+1061512,Health Slippers,10615,3,0,0,0,0
+10616,Shoe Care & Accessories,106,2,0,0,0,0
+1061610,Shoe Laces,10616,3,0,0,0,0
+1061611,Shoe Horns & Trees,10616,3,0,0,0,0
+1061612,Shoe Insoles,10616,3,0,0,0,0
+107,Mobile & Gadgets,0,1,0,0,0,0
+10710,Tablets,107,2,0,0,0,0
+10711,Mobile Phones,107,2,0,0,0,0
+10712,Wearable Devices,107,2,0,0,0,0
+1071210,Smartwatches & Fitness Trackers,10712,3,0,0,0,0
+1071211,VR Devices,10712,3,0,0,0,0
+1071212,Others,10712,3,0,0,0,0
+10713,Accessories,107,2,0,0,0,0
+1071310,Selfie Accessories,10713,3,0,0,0,0
+107131010,Selfie Sticks,1071310,4,0,0,0,0
+107131011,Lazypods,1071310,4,0,0,0,0
+107131012,Remote Shutters,1071310,4,0,0,0,0
+1071311,Mobile Flashes & Selfie Lights,10713,3,0,0,0,0
+1071312,USB & Mobile Fans,10713,3,0,0,0,0
+1071313,Stylus,10713,3,0,0,0,0
+1071314,Phone Grips,10713,3,0,0,0,0
+1071315,Phone Straps & Keychains,10713,3,0,0,0,0
+1071316,Mobile Pouches,10713,3,0,0,0,0
+1071317,"Cables, Chargers & Converters",10713,3,0,0,0,0
+107131710,"Cable Cases, Protectors, & Winders",1071317,4,0,0,0,0
+107131711,Travel Adaptors,1071317,4,0,0,0,0
+107131712,Mobile Cables & Converters,1071317,4,0,0,0,0
+107131713,Chargers,1071317,4,0,0,0,0
+107131714,Docks & Stands,1071317,4,0,0,0,0
+107131715,Others,1071317,4,0,0,0,0
+1071318,USB & Mobile Lights,10713,3,0,0,0,0
+1071319,Powerbanks & Batteries,10713,3,0,0,0,0
+107131910,Batteries,1071319,4,0,0,0,0
+107131911,Powercases,1071319,4,0,0,0,0
+1071320,Wearable Accessories,10713,3,0,0,0,0
+1071321,Screen Protectors,10713,3,0,0,0,0
+1071322,"Cases, Covers, & Skins",10713,3,0,0,0,0
+1071323,Others,10713,3,0,0,0,0
+10714,Others,107,2,0,0,0,0
+108,Muslim Fashion,0,1,0,0,0,0
+10810,Women Muslim Wear,108,2,0,0,0,0
+1081010,Veils,10810,3,0,0,0,0
+108101010,Khimar,1081010,4,0,0,0,0
+108101011,Instant Hijab,1081010,4,0,0,0,0
+108101012,Square Hijab,1081010,4,0,0,0,0
+108101013,Shawl Hijab,1081010,4,0,0,0,0
+1081011,Accessories,10810,3,0,0,0,0
+108101110,Socks,1081011,4,0,0,0,0
+108101111,Handsocks,1081011,4,0,0,0,0
+1081012,Muslimah Sports Apparels,10810,3,0,0,0,0
+1081013,Muslimah Swimwear,10810,3,0,0,0,0
+1081014,Top,10810,3,0,0,0,0
+108101410,Tunic,1081014,4,0,0,0,0
+108101411,"Shirts, Blouses & Inner Blouses",1081014,4,0,0,0,0
+108101412,Nursing Blouse,1081014,4,0,0,0,0
+1081015,Dresses,10810,3,0,0,0,0
+108101510,Robe & Jubah,1081015,4,0,0,0,0
+108101511,Abaya Cloak,1081015,4,0,0,0,0
+108101512,Nursing Jubah,1081015,4,0,0,0,0
+108101513,Kaftan,1081015,4,0,0,0,0
+108101514,Baju Kelawar,1081015,4,0,0,0,0
+108101515,Baju Kurung,1081015,4,0,0,0,0
+108101516,Set Warda,1081015,4,0,0,0,0
+108101517,Jumpsuits,1081015,4,0,0,0,0
+1081016,Bottoms,10810,3,0,0,0,0
+108101610,Skirt,1081016,4,0,0,0,0
+108101611,Pants,1081016,4,0,0,0,0
+108101612,Leggings,1081016,4,0,0,0,0
+108101613,Palazzo,1081016,4,0,0,0,0
+1081017,Hijab Accessories,10810,3,0,0,0,0
+108101710,Inner Hijab,1081017,4,0,0,0,0
+108101711,Hijab Pin,1081017,4,0,0,0,0
+10811,Prayer Attire & Equipment,108,2,0,0,0,0
+1081110,Prayer Sets,10811,3,0,0,0,0
+1081111,Prayer Mats,10811,3,0,0,0,0
+1081112,"Peci, Songkok & Kopiah",10811,3,0,0,0,0
+1081113,Telekung,10811,3,0,0,0,0
+1081114,Telekung Travel,10811,3,0,0,0,0
+10812,Men Muslim Wear,108,2,0,0,0,0
+1081210,Tops,10812,3,0,0,0,0
+1081211,Robe & Jubah,10812,3,0,0,0,0
+1081212,Pants,10812,3,0,0,0,0
+1081213,Sarong,10812,3,0,0,0,0
+1081214,Baju Melayu,10812,3,0,0,0,0
+10813,Kid Muslim Wear,108,2,0,0,0,0
+1081310,Girl's Muslim Attire,10813,3,0,0,0,0
+108131010,Veils,1081310,4,0,0,0,0
+108131011,Telekung,1081310,4,0,0,0,0
+108131012,Attire Piece & Sets,1081310,4,0,0,0,0
+1081311,Boy's Muslim Attire,10813,3,0,0,0,0
+109,Travel & Luggage,0,1,0,0,0,0
+10910,Luggage,109,2,0,0,0,0
+10911,Travel Bags,109,2,0,0,0,0
+1091110,Foldable Bags,10911,3,0,0,0,0
+1091111,Drawstring Bags,10911,3,0,0,0,0
+1091112,Duffel & Weekender Bags,10911,3,0,0,0,0
+10912,Travel Accessories,109,2,0,0,0,0
+1091210,Passport Holders & Covers,10912,3,0,0,0,0
+1091211,Travel Organizers,10912,3,0,0,0,0
+1091212,Luggage Protectors & Covers,10912,3,0,0,0,0
+1091213,Luggage Tags,10912,3,0,0,0,0
+1091214,Luggage Straps,10912,3,0,0,0,0
+1091215,Luggage Locks,10912,3,0,0,0,0
+1091216,Luggage Scales,10912,3,0,0,0,0
+1091217,Travel Pillows & Eye Covers,10912,3,0,0,0,0
+1091218,Travel Size Bottles & Containers,10912,3,0,0,0,0
+110,Women Bags,0,1,0,0,0,0
+11010,Backpacks,110,2,0,0,0,0
+11011,Laptop Bags,110,2,0,0,0,0
+1101110,Laptop Bags & Cases,11011,3,0,0,0,0
+1101111,Laptop Sleeves,11011,3,0,0,0,0
+1101112,Laptop Backpacks,11011,3,0,0,0,0
+1101113,Others,11011,3,0,0,0,0
+11012,Clutches & Wristlets,110,2,0,0,0,0
+11013,Waist Bags & Chest Bags,110,2,0,0,0,0
+11014,Tote Bags,110,2,0,0,0,0
+11015,Top-handle Bags,110,2,0,0,0,0
+11016,"	
+Crossbody & Shoulder Bags",110,2,0,0,0,0
+11017,Wallets,110,2,0,0,0,0
+1101710,Card Holders,11017,3,0,0,0,0
+1101711,Coin Holders & Purses,11017,3,0,0,0,0
+1101712,Phone & Key Wallets,11017,3,0,0,0,0
+1101713,Bifold & Trifold Wallets,11017,3,0,0,0,0
+1101714,Long Wallets,11017,3,0,0,0,0
+1101715,Others,11017,3,0,0,0,0
+11018,Bag Accessories,110,2,0,0,0,0
+1101810,Bag Straps,11018,3,0,0,0,0
+1101811,Bag Holders,11018,3,0,0,0,0
+1101812,Charms & Twillies,11018,3,0,0,0,0
+1101813,Bag Organizers,11018,3,0,0,0,0
+111,Women Shoes,0,1,0,0,0,0
+11110,Boots,111,2,0,0,0,0
+1111010,Rain Boots,11110,3,0,0,0,0
+1111011,Fashion Boots,11110,3,0,0,0,0
+11111,Sneakers,111,2,0,0,0,0
+11112,Flats,111,2,0,0,0,0
+1111210,Ballet Flats,11112,3,0,0,0,0
+1111211,Loafers & Boat Shoes,11112,3,0,0,0,0
+1111212,Oxfords & Lace-Ups,11112,3,0,0,0,0
+1111213,"Slip Ons, Mary Janes & Mules",11112,3,0,0,0,0
+11113,Heels,111,2,0,0,0,0
+11114,Wedges,111,2,0,0,0,0
+11115,Flat Sandals & Flip Flops,111,2,0,0,0,0
+1111510,Flat Sandals,11115,3,0,0,0,0
+1111511,Health Slippers,11115,3,0,0,0,0
+1111512,Indoor Slippers,11115,3,0,0,0,0
+11116,"	
+Shoe Care & Accessories",111,2,0,0,0,0
+1111610,Insoles & Heel Liners,11116,3,0,0,0,0
+1111611,Shoe Horns & Trees,11116,3,0,0,0,0
+1111612,Shoe Laces,11116,3,0,0,0,0
+112,Men Bags,0,1,0,0,0,0
+11210,Backpacks,112,2,0,0,0,0
+11211,Laptop Bags,112,2,0,0,0,0
+1121110,Laptop Bags & Cases,11211,3,0,0,0,0
+1121111,Laptop Sleeves,11211,3,0,0,0,0
+1121112,Laptop Backpacks,11211,3,0,0,0,0
+11212,Tote Bags,112,2,0,0,0,0
+11213,Briefcases,112,2,0,0,0,0
+11214,Clutches,112,2,0,0,0,0
+11215,Waist Bags & Chest Bags,112,2,0,0,0,0
+11216,Crossbody & Shoulder Bags,112,2,0,0,0,0
+11217,Wallets,112,2,0,0,0,0
+1121710,Card Holders,11217,3,0,0,0,0
+1121711,Coin Holders & Purses,11217,3,0,0,0,0
+1121712,Phone & Key Wallets,11217,3,0,0,0,0
+1121713,Bifold & Trifold Wallets,11217,3,0,0,0,0
+1121714,Long Wallets,11217,3,0,0,0,0
+113,Watches,0,1,0,0,0,0
+11310,Men Watches,113,2,0,0,0,0
+11311,Women Watches,113,2,0,0,0,0
+11312,Set & Couple Watches,113,2,0,0,0,0
+11313,Watches Accessories,113,2,0,0,0,0
+1131310,Straps,11313,3,0,0,0,0
+1131311,Service Tools,11313,3,0,0,0,0
+1131312,Buckles,11313,3,0,0,0,0
+1131313,Boxes,11313,3,0,0,0,0
+1131314,Others,11313,3,0,0,0,0
+114,Audio,0,1,0,0,0,0
+11410,"Earphones, Headphones & Headsets",114,2,0,0,0,0
+11411,Media Players,114,2,0,0,0,0
+1141110,MP3 & MP4 Players,11411,3,0,0,0,0
+1141111,"CD, DVD, & Blu-ray Players",11411,3,0,0,0,0
+1141112,Voice Recorders,11411,3,0,0,0,0
+1141113,Radio & Cassette Players,11411,3,0,0,0,0
+11412,Microphones,114,2,0,0,0,0
+11413,Amplifiers & Mixers,114,2,0,0,0,0
+11414,Home Audio & Speakers,114,2,0,0,0,0
+1141410,Speakers,11414,3,0,0,0,0
+1141411,Home Theater Systems,11414,3,0,0,0,0
+1141412,AV Receivers,11414,3,0,0,0,0
+1141413,Others,11414,3,0,0,0,0
+11415,Audio & Video Cables & Converters,114,2,0,0,0,0
+11416,Others,114,2,0,0,0,0
+115,Food & Beverage,0,1,0,0,0,0
+11510,Ready to eat,115,2,0,0,0,0
+1151010,Instant Rice & Porridge,11510,3,0,0,0,0
+1151011,Instant Hotpot,11510,3,0,0,0,0
+1151012,Instant Noodles,11510,3,0,0,0,0
+1151013,Others,11510,3,0,0,0,0
+11511,Food Staples,115,2,0,0,0,0
+1151110,Dried Food,11511,3,0,0,0,0
+1151111,Canned Food,11511,3,0,0,0,0
+11512,Baking Needs,115,2,0,0,0,0
+11513,Baking decoration,115,2,0,0,0,0
+11514,Dairy & Eggs,115,2,0,0,0,0
+11515,Fresh & Frozen Food,115,2,0,0,0,0
+1151510,Meat,11515,3,0,0,0,0
+115151010,Beef,1151510,4,0,0,0,0
+115151011,Poultry,1151510,4,0,0,0,0
+115151012,Pork,1151510,4,0,0,0,0
+115151013,Lamb,1151510,4,0,0,0,0
+1151511,Seafood,11515,3,0,0,0,0
+115151110,Fish,1151511,4,0,0,0,0
+115151111,Prawn,1151511,4,0,0,0,0
+115151112,Crab,1151511,4,0,0,0,0
+1151512,Mashroom,11515,3,0,0,0,0
+1151513,Bread,11515,3,0,0,0,0
+1151514,Sausage,11515,3,0,0,0,0
+1151515,Fries,11515,3,0,0,0,0
+1151516,Others,11515,3,0,0,0,0
+11516,Beverages,115,2,0,0,0,0
+1151610,Packet Drinks,11516,3,0,0,0,0
+1151611,Can Drinks,11516,3,0,0,0,0
+1151612,Bottle Drinks,11516,3,0,0,0,0
+116,Pets,0,1,0,0,0,0
+11610,Pet Accessories,116,2,0,0,0,0
+1161010,Toys,11610,3,0,0,0,0
+116101010,Sticks & Chasers,1161010,4,0,0,0,0
+116101011,"Chew, Bones & Balls",1161010,4,0,0,0,0
+116101012,Frisbees,1161010,4,0,0,0,0
+116101013,Small Pet Toys,1161010,4,0,0,0,0
+116101014,Bird Toys,1161010,4,0,0,0,0
+116101015,Fish,1161010,4,0,0,0,0
+116101016,Electronic Toys,1161010,4,0,0,0,0
+116101017,Bath Toys,1161010,4,0,0,0,0
+116101018,Others,1161010,4,0,0,0,0
+1161011,Pet Furniture,11610,3,0,0,0,0
+116101110,Beds & Mats,1161011,4,0,0,0,0
+116101111,Houses,1161011,4,0,0,0,0
+116101112,Habitats & Accessories,1161011,4,0,0,0,0
+116101113,Cages & Crates,1161011,4,0,0,0,0
+116101114,Scratching Pads & Posts,1161011,4,0,0,0,0
+1161012,Aquarium Needs,11610,3,0,0,0,0
+11611,Litter & Toilet,116,2,0,0,0,0
+11612,Pet Grooming,116,2,0,0,0,0
+1161210,Hair Care,11612,3,0,0,0,0
+1161211,Oral Care,11612,3,0,0,0,0
+1161212,Claw Care,11612,3,0,0,0,0
+1161213,Body Care,11612,3,0,0,0,0
+11613,Pet Clothing & Accessories,116,2,0,0,0,0
+1161310,Wet Weather Gear,11613,3,0,0,0,0
+1161311,"Boots, Socks & Paw Protectors",11613,3,0,0,0,0
+1161312,Neck Accessories,11613,3,0,0,0,0
+1161313,Eyewear,11613,3,0,0,0,0
+1161314,Hair Accessories,11613,3,0,0,0,0
+1161315,Hats,11613,3,0,0,0,0
+1161316,Others,11613,3,0,0,0,0
+117,Mom & Baby,0,1,0,0,0,0
+11710,Baby Travel Essentials,117,2,0,0,0,0
+1171010,Baby Carrier,11710,3,0,0,0,0
+1171011,Strollers & Travel Systems,11710,3,0,0,0,0
+1171012,Stroller Accessories,11710,3,0,0,0,0
+1171013,Car & Motorbike Seats Accessories,11710,3,0,0,0,0
+1171014,Diaper Bags,11710,3,0,0,0,0
+1171015,Child Harnesses & Leashes,11710,3,0,0,0,0
+11711,Feeding Essentials,117,2,0,0,0,0
+1171110,Bottle Cooler Bag,11711,3,0,0,0,0
+1171111,Bottle Cleansing,11711,3,0,0,0,0
+1171112,Warmers,11711,3,0,0,0,0
+1171113,Nursing Covers,11711,3,0,0,0,0
+1171114,Breastmilk Storage Bags,11711,3,0,0,0,0
+1171115,Highchairs & Booster Seats,11711,3,0,0,0,0
+1171116,Baby Tableware,11711,3,0,0,0,0
+1171117,Baby Food Containers,11711,3,0,0,0,0
+1171118,Bibs,11711,3,0,0,0,0
+1171119,Pacifiers,11711,3,0,0,0,0
+1171120,Food Processors,11711,3,0,0,0,0
+11712,Maternity Accessories,117,2,0,0,0,0
+1171210,Supporting Belts,11712,3,0,0,0,0
+1171211,Maternity Pillows,11712,3,0,0,0,0
+11713,Bath & Body Care,117,2,0,0,0,0
+1171310,Bathing Tubs & Seats,11713,3,0,0,0,0
+1171311,"Bath Robes, Towels & Wash Cloths",11713,3,0,0,0,0
+1171312,Shower Caps,11713,3,0,0,0,0
+1171313,Bathing Tools & Accessories,11713,3,0,0,0,0
+1171314,Baby Grooming Tools,11713,3,0,0,0,0
+11714,Nursery,117,2,0,0,0,0
+1171410,Cribs & Cradles & Beds,11714,3,0,0,0,0
+1171411,"Bouncers, Rockers & Jumpers",11714,3,0,0,0,0
+1171412,Walkers,11714,3,0,0,0,0
+1171413,Blankets & Wrappers,11714,3,0,0,0,0
+1171414,Pillows & Bolsters,11714,3,0,0,0,0
+1171415,Bedsheets,11714,3,0,0,0,0
+1171416,Storage & Organization,11714,3,0,0,0,0
+11715,Baby Safety,117,2,0,0,0,0
+1171510,Monitors,11715,3,0,0,0,0
+1171511,Mosquito Netting,11715,3,0,0,0,0
+1171512,"Bumpers, Rails & Guards",11715,3,0,0,0,0
+1171513,Edge & Corner Guards,11715,3,0,0,0,0
+1171514,Baby Gates & Doorways,11715,3,0,0,0,0
+1171515,Safety Locks & Straps,11715,3,0,0,0,0
+11716,Diapering & Potty,117,2,0,0,0,0
+1171610,Changing Pads & Kits,11716,3,0,0,0,0
+1171611,Potty Training & Commode Chairs,11716,3,0,0,0,0
+1171612,Cloth Diapers & Accessories,11716,3,0,0,0,0
+11717,Toys,117,2,0,0,0,0
+1171710,Baby & Toddler Toys,11717,3,0,0,0,0
+117171010,Playgym & Playmats,1171710,4,0,0,0,0
+117171011,Playards & Playpens,1171710,4,0,0,0,0
+117171012,Bath Toys,1171710,4,0,0,0,0
+117171013,Crib Mobiles & Rattles,1171710,4,0,0,0,0
+117171014,Teethers,1171710,4,0,0,0,0
+1171711,Block Toys,11717,3,0,0,0,0
+1171712,Dolls & Stuffed Toys,11717,3,0,0,0,0
+117171210,Dolls & Accessories,1171712,4,0,0,0,0
+117171211,Doll Houses & Accessories,1171712,4,0,0,0,0
+117171212,Stuffed Toys,1171712,4,0,0,0,0
+1171713,Pretend Play,11717,3,0,0,0,0
+1171714,Toy Vehicles,11717,3,0,0,0,0
+1171715,Sports & Outdoor Play,11717,3,0,0,0,0
+117171510,"Bicycles, Scooters & Ride-ons",1171715,4,0,0,0,0
+117171511,Inflatables & Slides,1171715,4,0,0,0,0
+117171512,"Play Tents, Tunnels & Ball Pits",1171715,4,0,0,0,0
+117171513,"Pool, Water & Sand Toys",1171715,4,0,0,0,0
+117171514,Sports Toys,1171715,4,0,0,0,0
+117171515,"Flying Toys, Kites & Wind Spinners",1171715,4,0,0,0,0
+1171716,Educational Toys,11717,3,0,0,0,0
+117171610,Math Toys,1171716,4,0,0,0,0
+117171611,Science & Tech Toys,1171716,4,0,0,0,0
+117171612,Shape Sorters,1171716,4,0,0,0,0
+117171613,Puzzles,1171716,4,0,0,0,0
+117171614,Musical Toys,1171716,4,0,0,0,0
+117171615,Toy Tablets & Computers,1171716,4,0,0,0,0
+1171717,Robot Toys,11717,3,0,0,0,0
+1171718,Slime & Squishy Toys,11717,3,0,0,0,0
+118,Baby & Kids Fashion,0,1,0,0,0,0
+11810,Baby Clothes,118,2,0,0,0,0
+1181010,Regular Outerwear,11810,3,0,0,0,0
+1181011,Winter Outerwear,11810,3,0,0,0,0
+1181012,Dresses,11810,3,0,0,0,0
+1181013,Pants & Leggings,11810,3,0,0,0,0
+1181014,Shorts,11810,3,0,0,0,0
+1181015,Skirts,11810,3,0,0,0,0
+1181016,Sleepwear,11810,3,0,0,0,0
+1181017,Tops,11810,3,0,0,0,0
+1181018,Bodysuits & Jumpsuits,11810,3,0,0,0,0
+1181019,Sets,11810,3,0,0,0,0
+1181020,Swimwear,11810,3,0,0,0,0
+11811,Baby Mittens & Footwear,118,2,0,0,0,0
+11812,Baby & Kids Accessories,118,2,0,0,0,0
+1181210,Bags & Luggage,11812,3,0,0,0,0
+118121010,Backpacks,1181210,4,0,0,0,0
+118121011,Crossbody & Shoulder Bags,1181210,4,0,0,0,0
+118121012,Trolley Bags,1181210,4,0,0,0,0
+118121013,Wallets,1181210,4,0,0,0,0
+1181211,Hats & Caps,11812,3,0,0,0,0
+1181212,Eyewear,11812,3,0,0,0,0
+1181213,Hair Accessories,11812,3,0,0,0,0
+1181214,Gloves,11812,3,0,0,0,0
+1181215,Belts,11812,3,0,0,0,0
+1181216,Socks,11812,3,0,0,0,0
+1181217,Scarves,11812,3,0,0,0,0
+1181218,Watches,11812,3,0,0,0,0
+1181219,Jewelry,11812,3,0,0,0,0
+118121910,Bracelets,1181219,4,0,0,0,0
+118121911,Earrings,1181219,4,0,0,0,0
+118121912,Necklaces,1181219,4,0,0,0,0
+118121913,Rings,1181219,4,0,0,0,0
+1181220,Rain Gear,11812,3,0,0,0,0
+118122010,Raincoats,1181220,4,0,0,0,0
+118122011,Rain Boots,1181220,4,0,0,0,0
+1181221,Earmuffs,11812,3,0,0,0,0
+11813,Boy Clothes,118,2,0,0,0,0
+1181310,Costumes,11813,3,0,0,0,0
+1181311,Underwear & Innerwear,11813,3,0,0,0,0
+1181312,Sleepwear,11813,3,0,0,0,0
+1181313,Swimwear,11813,3,0,0,0,0
+1181314,Tops,11813,3,0,0,0,0
+118131410,T-shirts,1181314,4,0,0,0,0
+118131411,Polo Shirts,1181314,4,0,0,0,0
+118131412,Shirts,1181314,4,0,0,0,0
+1181315,Outerwear,11813,3,0,0,0,0
+118131510,Regular Jackets & Coats,1181315,4,0,0,0,0
+118131511,Winter Outerwear,1181315,4,0,0,0,0
+118131512,Vests,1181315,4,0,0,0,0
+118131513,Sweaters & Cardigans,1181315,4,0,0,0,0
+118131514,Blazers,1181315,4,0,0,0,0
+118131515,Hoodies,1181315,4,0,0,0,0
+1181316,Bottoms,11813,3,0,0,0,0
+118131610,Jeans,1181316,4,0,0,0,0
+118131611,Pants,1181316,4,0,0,0,0
+118131612,Shorts,1181316,4,0,0,0,0
+118131613,Overalls,1181316,4,0,0,0,0
+1181317,Suits & Sets,11813,3,0,0,0,0
+11814,Girl Clothes,118,2,0,0,0,0
+1181410,Costumes,11814,3,0,0,0,0
+1181411,Underwear & Innerwear,11814,3,0,0,0,0
+1181412,Sleepwear,11814,3,0,0,0,0
+1181413,Swimwear,11814,3,0,0,0,0
+1181414,Tops,11814,3,0,0,0,0
+118141410,T-shirts,1181414,4,0,0,0,0
+118141411,Polo Shirts,1181414,4,0,0,0,0
+118141412,Shirts & Blouses,1181414,4,0,0,0,0
+1181415,Outerwear,11814,3,0,0,0,0
+118141510,Regular Jackets & Coats,1181415,4,0,0,0,0
+118141511,Winter Outerwear,1181415,4,0,0,0,0
+118141512,Vests,1181415,4,0,0,0,0
+118141513,Sweaters & Cardigans,1181415,4,0,0,0,0
+118141514,Blazers,1181415,4,0,0,0,0
+118141515,Hoodies,1181415,4,0,0,0,0
+1181416,Bottoms,11814,3,0,0,0,0
+118141610,Jeans,1181416,4,0,0,0,0
+118141611,Pants,1181416,4,0,0,0,0
+118141612,Shorts,1181416,4,0,0,0,0
+118141613,Skirts,1181416,4,0,0,0,0
+118141614,Leggings,1181416,4,0,0,0,0
+1181417,Suits & Sets,11814,3,0,0,0,0
+1181418,Rompers & Jumpsuits,11814,3,0,0,0,0
+1181419,Dresses,11814,3,0,0,0,0
+11815,Boy Shoes,118,2,0,0,0,0
+1181510,Boots,11815,3,0,0,0,0
+1181511,Sandals,11815,3,0,0,0,0
+1181512,Sneakers,11815,3,0,0,0,0
+1181513,Flip Flops,11815,3,0,0,0,0
+1181514,Formal Shoes,11815,3,0,0,0,0
+1181515,Loafers,11815,3,0,0,0,0
+11816,Girl Shoes,118,2,0,0,0,0
+1181610,Boots,11816,3,0,0,0,0
+1181611,Sandals,11816,3,0,0,0,0
+1181612,Sneakers,11816,3,0,0,0,0
+1181613,Loafers,11816,3,0,0,0,0
+1181614,Flip Flops,11816,3,0,0,0,0
+1181615,Flats,11816,3,0,0,0,0
+119,Gaming & Consoles,0,1,0,0,0,0
+11910,Console Machines,119,2,0,0,0,0
+1191010,Xbox,11910,3,0,0,0,0
+1191011,Wii,11910,3,0,0,0,0
+1191012,Nintendo DS,11910,3,0,0,0,0
+11911,Console Accessories,119,2,0,0,0,0
+11912,Video Games,119,2,0,0,0,0
+1191210,Playstation,11912,3,0,0,0,0
+1191211,Xbox,11912,3,0,0,0,0
+1191212,Wii,11912,3,0,0,0,0
+1191213,Nintendo DS,11912,3,0,0,0,0
+1191214,Gameboy,11912,3,0,0,0,0
+1191215,Switch,11912,3,0,0,0,0
+1191216,PS Vita,11912,3,0,0,0,0
+1191217,PSP,11912,3,0,0,0,0
+1191218,PC Game,11912,3,0,0,0,0
+120,Cameras & Drones,0,1,0,0,0,0
+12010,Lenses,120,2,0,0,0,0
+12011,Lens Accessories,120,2,0,0,0,0
+1201110,Lens Mount & Adapters,12011,3,0,0,0,0
+1201111,Lens Caps,12011,3,0,0,0,0
+1201112,Filters,12011,3,0,0,0,0
+1201113,Lens Hoods,12011,3,0,0,0,0
+1201114,Others,12011,3,0,0,0,0
+12012,Camera Accessories,120,2,0,0,0,0
+1201210,Flash Accessories,12012,3,0,0,0,0
+120121010,Flash Triggers,1201210,4,0,0,0,0
+120121011,Flash Diffusers,1201210,4,0,0,0,0
+1201211,Gimbals & Stabilizers,12012,3,0,0,0,0
+1201212,Lighting & Studio Equipments,12012,3,0,0,0,0
+1201213,Camera Cases & Bags,12012,3,0,0,0,0
+1201214,Batteries & Battery Grips,12012,3,0,0,0,0
+1201215,"Tripods, Monopods, & Accessories",12012,3,0,0,0,0
+12013,Camera Care,120,2,0,0,0,0
+1201310,Dry Boxes & Cabinets,12013,3,0,0,0,0
+1201311,Silica Gel,12013,3,0,0,0,0
+1201312,Blowers,12013,3,0,0,0,0
+1201313,Lenspens & Brushes,12013,3,0,0,0,0
+121,Home & Living,0,1,0,0,0,0
+12110,Home Fragrance & Aromatherapy,121,2,0,0,0,0
+1211010,Air Fresheners,12110,3,0,0,0,0
+1211011,Home Fragrance,12110,3,0,0,0,0
+1211012,Essential Oils,12110,3,0,0,0,0
+1211013,Diffusers,12110,3,0,0,0,0
+1211014,Humidifiers,12110,3,0,0,0,0
+1211015,Oil Burners,12110,3,0,0,0,0
+1211016,Incense Sticks,12110,3,0,0,0,0
+1211017,Dhoops,12110,3,0,0,0,0
+12111,Bathrooms,121,2,0,0,0,0
+1211110,"Toilet Bowls, Seats & Covers",12111,3,0,0,0,0
+1211111,Toothbrush Holders & Toothpaste Dispensers,12111,3,0,0,0,0
+1211112,"Soap Dispensers, Holders & Boxes",12111,3,0,0,0,0
+1211113,Bathroom Racks & Cabinets,12111,3,0,0,0,0
+1211114,Bathtubs,12111,3,0,0,0,0
+1211115,Towels & Bathrobes,12111,3,0,0,0,0
+1211116,Toilet Paper,12111,3,0,0,0,0
+121111510,Bath Towels,1211115,4,0,0,0,0
+121111511,Face & Hand Towels,1211115,4,0,0,0,0
+121111512,Bath Robes,1211115,4,0,0,0,0
+121111513,Others,1211115,4,0,0,0,0
+1211124,Showerheads & Bidet Sprays,12111,3,0,0,0,0
+1211117,Bath Brushes & Loofahs,12111,3,0,0,0,0
+1211118,Shower Curtains,12111,3,0,0,0,0
+1211119,Shower Seats & Commodes,12111,3,0,0,0,0
+1211120,Safety Handles,12111,3,0,0,0,0
+1211121,Shower Caps,12111,3,0,0,0,0
+1211122,Others,12111,3,0,0,0,0
+1211123,Fragrances,12111,3,0,0,0,0
+1211125,Others,12111,3,0,0,0,0
+12112,Bedding,121,2,0,0,0,0
+1211210,Cooling Mats,12112,3,0,0,0,0
+1211211,Mattress Protectors & Toppers,12112,3,0,0,0,0
+1211212,"Blankets, Comforters & Quilts",12112,3,0,0,0,0
+1211213,Pillows,12112,3,0,0,0,0
+1211214,Bedsheets,12112,3,0,0,0,0
+1211215,Pillowcases,12112,3,0,0,0,0
+1211216,Bolster Cases,12112,3,0,0,0,0
+1211217,Matresses,12112,3,0,0,0,0
+1211218,Mosquito Nets,12112,3,0,0,0,0
+1211219,Bolsters,12112,3,0,0,0,0
+1211220,Others,12112,3,0,0,0,0
+12113,Decoration,121,2,0,0,0,0
+1211310,Flowers,12113,3,0,0,0,0
+1211311,Furniture & Appliance Covers,12113,3,0,0,0,0
+1211312,Curtains & Blinds,12113,3,0,0,0,0
+1211313,Photo Frames & Wall Decoration,12113,3,0,0,0,0
+1211314,Wallpapers & Wall Stickers,12113,3,0,0,0,0
+1211315,Clocks,12113,3,0,0,0,0
+1211316,Floor Mats,12113,3,0,0,0,0
+1211317,Carpets & Rugs,12113,3,0,0,0,0
+1211318,Vases & Vessels,12113,3,0,0,0,0
+1211319,Candles & Candleholders,12113,3,0,0,0,0
+1211320,Mirrors,12113,3,0,0,0,0
+1211321,Table Cloths,12113,3,0,0,0,0
+1211322,Others,12113,3,0,0,0,0
+12114,"Hand Warmers, Hot Water Bags & Ice Bags",121,2,0,0,0,0
+12115,Furniture,121,2,0,0,0,0
+1211510,Cushions,12115,3,0,0,0,0
+1211511,Doorstoppers,12115,3,0,0,0,0
+1211512,Bed Frames & Headboards,12115,3,0,0,0,0
+1211513,Desks & Tables,12115,3,0,0,0,0
+1211514,Wardrobes,12115,3,0,0,0,0
+1211515,"Benches, Chairs & Stools",12115,3,0,0,0,0
+1211516,Sofas,12115,3,0,0,0,0
+1211517,Cupboards & Cabinets,12115,3,0,0,0,0
+1211518,Shelves & Racks,12115,3,0,0,0,0
+12116,Gardening,121,2,0,0,0,0
+1211610,Plants,12116,3,0,0,0,0
+1211611,Garden Decorations,12116,3,0,0,0,0
+1211612,Garden Soils & Growing Media,12116,3,0,0,0,0
+1211613,Fertilizer,12116,3,0,0,0,0
+1211614,Seeds & Bulbs,12116,3,0,0,0,0
+1211615,Pots & Planters,12116,3,0,0,0,0
+1211616,Irrigation Systems,12116,3,0,0,0,0
+1211617,Gardening Tools,12116,3,0,0,0,0
+1211618,Lawn Mowers,12116,3,0,0,0,0
+1211619,Others,12116,3,0,0,0,0
+12117,Tools,121,2,0,0,0,0
+1211710,Tool Boxes,12117,3,0,0,0,0
+1211711,Measuring Tapes,12117,3,0,0,0,0
+1211712,Spanner Sets,12117,3,0,0,0,0
+1211713,Hammers,12117,3,0,0,0,0
+1211714,Pliers,12117,3,0,0,0,0
+1211715,"Nails, Screws & Fasteners",12117,3,0,0,0,0
+1211716,"Drills, Screwdrivers & Accessories",12117,3,0,0,0,0
+1211717,"Saws, Cut-off Machines & Grinders",12117,3,0,0,0,0
+1211718,Pressure Washers,12117,3,0,0,0,0
+1211719,Electrical Testers & Multimeters,12117,3,0,0,0,0
+1211720,Levels & Measuring Wheels,12117,3,0,0,0,0
+1211721,Rangefinders,12117,3,0,0,0,0
+1211722,Air Compressors,12117,3,0,0,0,0
+1211723,"Sandpaper, Power Sanders & Accessories",12117,3,0,0,0,0
+1211724,Power Welding Tools,12117,3,0,0,0,0
+1211725,Blowers,12117,3,0,0,0,0
+1211726,Others,12117,3,0,0,0,0
+12118,Home Improvement,121,2,0,0,0,0
+1211810,Industrial Adhesives & Tapes,12118,3,0,0,0,0
+1211811,"Protective Gloves, Goggles & Masks",12118,3,0,0,0,0
+1211812,Sinks & Water Taps,12118,3,0,0,0,0
+1211813,Roofing & Flooring,12118,3,0,0,0,0
+1211814,Wall Paints & Coatings,12118,3,0,0,0,0
+1211815,"	
+Water Pumps, Parts & Accessories",12118,3,0,0,0,0
+1211816,"Air Pumps, Parts & Accessories",12118,3,0,0,0,0
+1211817,Ladders,12118,3,0,0,0,0
+1211818,Trollies,12118,3,0,0,0,0
+1211819,"Shades, Awnings & Tarpaulins",12118,3,0,0,0,0
+1211820,Construction Materials,12118,3,0,0,0,0
+1211821,Doors & Windows,12118,3,0,0,0,0
+1211822,Others,12118,3,0,0,0,0
+12119,Home Care Supplies,121,2,0,0,0,0
+1211910,Clotheslines & Drying Racks,12119,3,0,0,0,0
+1211911,Cleaning Brushes,12119,3,0,0,0,0
+1211912,Brooms,12119,3,0,0,0,0
+1211913,Dusters,12119,3,0,0,0,0
+1211914,Mops,12119,3,0,0,0,0
+1211915,"Basins, Buckets & Water Dippers",12119,3,0,0,0,0
+1211916,Sponges & Scouring Pads,12119,3,0,0,0,0
+1211917,Trash & Recycling Bins,12119,3,0,0,0,0
+1211918,Plastic Bags & Trash Bags,12119,3,0,0,0,0
+1211919,Cleaning Cloths,12119,3,0,0,0,0
+1211920,Pest & Weed Control,12119,3,0,0,0,0
+1211921,Tissue & Paper Towels,12119,3,0,0,0,0
+1211922,Laundry Care,12119,3,0,0,0,0
+121192210,Fabric Fragrances,1211922,4,0,0,0,0
+121192211,Fabric Conditioners & Softeners,1211922,4,0,0,0,0
+121192212,Detergents,1211922,4,0,0,0,0
+12120,Kitchenware,121,2,0,0,0,0
+1212010,Grills & Accessories,12120,3,0,0,0,0
+1212011,Bakewares & Decorations,12120,3,0,0,0,0
+1212012,Pans,12120,3,0,0,0,0
+1212013,Pots,12120,3,0,0,0,0
+1212014,Food Storage,12120,3,0,0,0,0
+1212015,Cling Wrap,12120,3,0,0,0,0
+1212016,Aluminium Foil,12120,3,0,0,0,0
+1212017,"Tea, Coffee & Bartending Equipments",12120,3,0,0,0,0
+1212018,Kitchen Racks,12120,3,0,0,0,0
+1212019,Aprons & Kitchen Gloves,12120,3,0,0,0,0
+1212020,Spatulas & Cooking Tweezers,12120,3,0,0,0,0
+1212021,Chopping Boards,12120,3,0,0,0,0
+1212022,Knives & Kitchen Scissors,12120,3,0,0,0,0
+1212023,Whisks & Beaters,12120,3,0,0,0,0
+1212024,Can & Bottle Openers,12120,3,0,0,0,0
+1212025,Measuring Glasses & Spoons,12120,3,0,0,0,0
+1212026,Strainers,12120,3,0,0,0,0
+1212027,"Graters, Peelers & Cutters",12120,3,0,0,0,0
+1212028,Kitchen Weighing Scales,12120,3,0,0,0,0
+1212029,Sealers,12120,3,0,0,0,0
+1212030,Others,12120,3,0,0,0,0
+12121,Dinnerware,121,2,0,0,0,0
+1212110,"Jugs, Pitchers & Accessories",12121,3,0,0,0,0
+1212111,Tea Pots & Sets,12121,3,0,0,0,0
+1212112,"Cups, Mugs & Glasses",12121,3,0,0,0,0
+1212113,Water Bottles & Accessories,12121,3,0,0,0,0
+1212114,Bowls,12121,3,0,0,0,0
+1212115,Plates,12121,3,0,0,0,0
+1212116,Cutleries,12121,3,0,0,0,0
+1212117,Straws,12121,3,0,0,0,0
+1212118,Food Covers,12121,3,0,0,0,0
+1212119,Placemats & Coasters,12121,3,0,0,0,0
+1212120,Others,12121,3,0,0,0,0
+12122,Lighting,121,2,0,0,0,0
+12123,Safety & Security,121,2,0,0,0,0
+1212310,Safes,12123,3,0,0,0,0
+1212311,Door Hardware & Locks,12123,3,0,0,0,0
+12124,Home Organizers,121,2,0,0,0,0
+1212410,Hangers & Pegs,12124,3,0,0,0,0
+1212411,"Storage Boxes, Bags & Baskets",12124,3,0,0,0,0
+1212412,Shoe Storage Boxes,12124,3,0,0,0,0
+1212413,Hooks,12124,3,0,0,0,0
+1212414,Laundry Bags & Baskets,12124,3,0,0,0,0
+1212415,Desk Organizers,12124,3,0,0,0,0
+1212416,Wardrobe Organizers,12124,3,0,0,0,0
+1212417,Jewelry Organizers,12124,3,0,0,0,0
+1212418,Tissue Holders,12124,3,0,0,0,0
+1212419,Others,12124,3,0,0,0,0
+12125,Party Supplies,121,2,0,0,0,0
+1212510,Balloons,12125,3,0,0,0,0
+1212511,Wooden Clips,12125,3,0,0,0,0
+1212512,Backdrops & Banners,12125,3,0,0,0,0
+1212513,Cards,12125,3,0,0,0,0
+1212514,Disposable Tableware,12125,3,0,0,0,0
+1212515,Party Hats & Masks,12125,3,0,0,0,0
+1212516,Sashes,12125,3,0,0,0,0
+1212517,Others,12125,3,0,0,0,0
+122,Sports & Outdoors,0,1,0,0,0,0
+12210,Fishing,122,2,0,0,0,0
+1221010,Fishing Hooks,12210,3,0,0,0,0
+1221011,Fishing Rods & Reels,12210,3,0,0,0,0
+1221012,Fish Finders,12210,3,0,0,0,0
+1221013,Lures & Baits,12210,3,0,0,0,0
+1221014,Fishing Nets,12210,3,0,0,0,0
+1221015,Others,12210,3,0,0,0,0
+12211,Cycling,122,2,0,0,0,0
+1221110,Bicycles,12211,3,0,0,0,0
+1221111,Bicycle Parts & Accessories,12211,3,0,0,0,0
+1221112,Others,12211,3,0,0,0,0
+12212,Camping & Hiking,122,2,0,0,0,0
+1221210,Camping Cookware,12212,3,0,0,0,0
+1221211,Camping Lamps & Flashlights,12212,3,0,0,0,0
+1221212,Tents & Tent Accessories,12212,3,0,0,0,0
+1221213,Sleeping Bags,12212,3,0,0,0,0
+1221214,"Binoculars, Monoculars & Telescopes",12212,3,0,0,0,0
+1221215,Compasses,12212,3,0,0,0,0
+1221216,Camping Knives & Survival Kits,12212,3,0,0,0,0
+1221217,Hammocks,12212,3,0,0,0,0
+1221218,Hiking Sticks,12212,3,0,0,0,0
+1221219,Picnic Mats & Baskets,12212,3,0,0,0,0
+1221220,Others,12212,3,0,0,0,0
+12213,Rock Climbing,122,2,0,0,0,0
+12214,Boardsports,122,2,0,0,0,0
+1221410,Skateboards & Roller Blades,12214,3,0,0,0,0
+1221411,Scooters & Unicycles,12214,3,0,0,0,0
+1221412,Segways & Hoverboards,12214,3,0,0,0,0
+1221413,"
+Helmets & Protective Gears",12214,3,0,0,0,0
+12215,Archery,122,2,0,0,0,0
+1221510,Bows,12215,3,0,0,0,0
+1221511,Arrows,12215,3,0,0,0,0
+1221512,Others,12215,3,0,0,0,0
+12216,Soccer,122,2,0,0,0,0
+1221610,Uniform,12216,3,0,0,0,0
+1221611,Practice Clothes,12216,3,0,0,0,0
+1221612,Soccer Cleats,12216,3,0,0,0,0
+1221613,Skin Guards,12216,3,0,0,0,0
+1221614,Soccer Socks,12216,3,0,0,0,0
+1221615,Ball ,12216,3,0,0,0,0
+1221616,Goalkeeper Gloves,12216,3,0,0,0,0
+1221617,Water Bottle,12216,3,0,0,0,0
+1221618,Gear Bag,12216,3,0,0,0,0
+1221619,Fashion and Other Equipements,12216,3,0,0,0,0
+12217,Cricket,122,2,0,0,0,0
+1221710,Cricket Bats,12217,3,0,0,0,0
+1221711,Batting Pads,12217,3,0,0,0,0
+1221712,Batting Gloves,12217,3,0,0,0,0
+1221713,Cricket Helmets,12217,3,0,0,0,0
+1221714,Cricket Footwear,12217,3,0,0,0,0
+1221715,Cricket Protective Gear,12217,3,0,0,0,0
+1221716,Cricket Sunglasses,12217,3,0,0,0,0
+1221717,Cricket Clothing,12217,3,0,0,0,0
+1221718,Cricket Balls,12217,3,0,0,0,0
+1221719,Cricket Accessories,12217,3,0,0,0,0
+1221720,Training Equipements,12217,3,0,0,0,0
+12218,Basketball,122,2,0,0,0,0
+1221810,Basket Balls,12218,3,0,0,0,0
+1221811,Basketball Rings,12218,3,0,0,0,0
+1221812,Clothings,12218,3,0,0,0,0
+1221813,Fashion and Accessories,12218,3,0,0,0,0
+12219,Volleyball,122,2,0,0,0,0
+1221910,Volley Balls,12219,3,0,0,0,0
+1221911,Volley Nets,12219,3,0,0,0,0
+1221912,Clothings,12219,3,0,0,0,0
+1221913,Fashion and Accessories,12219,3,0,0,0,0
+12220,Badminton,122,2,0,0,0,0
+1222010,Badminton Rackets,12220,3,0,0,0,0
+1222011,Shuttlecocks,12220,3,0,0,0,0
+1222012,Badminton Nets,12220,3,0,0,0,0
+1222013,Clothings,12220,3,0,0,0,0
+1222014,Fashion and Accessories,12220,3,0,0,0,0
+12221,Tennis,122,2,0,0,0,0
+1222110,Tennis Balls,12221,3,0,0,0,0
+1222111,Tennis Nets,12221,3,0,0,0,0
+1222112,Clothings,12221,3,0,0,0,0
+1222113,Fashion and Accessories,12221,3,0,0,0,0
+12222,Table Tennis,122,2,0,0,0,0
+1222210,Table Tennis Balls,12222,3,0,0,0,0
+1222211,Table Tennis Nets,12222,3,0,0,0,0
+1222212,Table Tennis Bats,12222,3,0,0,0,0
+1222213,Table Tennis Table,12222,3,0,0,0,0
+1222214,Clothings,12222,3,0,0,0,0
+1222215,Fashion and Accessories,12222,3,0,0,0,0
+12223,Boxing & Martial Arts,122,2,0,0,0,0
+1222310,Punching Bags & Paddings,12223,3,0,0,0,0
+1222311,Martial Arts Belts,12223,3,0,0,0,0
+1222312,Clothings,12223,3,0,0,0,0
+1222313,Fashion and Accessories,12223,3,0,0,0,0
+1222314,Other Equipements,12223,3,0,0,0,0
+12224,Golf,122,2,0,0,0,0
+1222410,Gears & Equipment,12224,3,0,0,0,0
+1222411,Golf Accessories,12224,3,0,0,0,0
+1222412,Training Equipements,12224,3,0,0,0,0
+1222413,Others,12224,3,0,0,0,0
+12225,Billiards,122,2,0,0,0,0
+1222510,Billiards Balls,12225,3,0,0,0,0
+1222511,Cues,12225,3,0,0,0,0
+1222512,Tools,12225,3,0,0,0,0
+1222513,Accessories,12225,3,0,0,0,0
+1222514,Other Equipements,12225,3,0,0,0,0
+12226,Surfing & Wakeboarding,122,2,0,0,0,0
+12227,Ice Skating & Winter Sports,122,2,0,0,0,0
+12228,Swimming & Diving,122,2,0,0,0,0
+1222810,Swimming Goggles,12228,3,0,0,0,0
+1222811,Swimming Boards,12228,3,0,0,0,0
+1222812,Diving Flashlights,12228,3,0,0,0,0
+1222813,Diving Masks,12228,3,0,0,0,0
+1222814,Flippers,12228,3,0,0,0,0
+1222815,Life Jackets,12228,3,0,0,0,0
+1222816,Swimming Trunks,12228,3,0,0,0,0
+1222817,Bikini Sets,12228,3,0,0,0,0
+1222818,One-Piece Swimsuits,12228,3,0,0,0,0
+12229,Boating,122,2,0,0,0,0
+12230,Yoga & Pilates,122,2,0,0,0,0
+1223010,"Yoga Blocks, Rings & Foam Rollers",12230,3,0,0,0,0
+1223011,Resistance Bands,12230,3,0,0,0,0
+1223012,Yoga Mats,12230,3,0,0,0,0
+1223013,Clothings,12230,3,0,0,0,0
+1223014,Fashion & Accessories,12230,3,0,0,0,0
+12231,Gym & Fitness,122,2,0,0,0,0
+1223110,Weight Training,12231,3,0,0,0,0
+1223111,Skipping Ropes,12231,3,0,0,0,0
+1223112,Gym Balls,12231,3,0,0,0,0
+1223113,Fitness Machines,12231,3,0,0,0,0
+1223114,Ab Rollers,12231,3,0,0,0,0
+1223115,Gym Protective Gears,12231,3,0,0,0,0
+1223116,Gym & Fitness Clothings,12231,3,0,0,0,0
+1223117,Pull Up & Push Up Bars,12231,3,0,0,0,0
+1223118,Others,12231,3,0,0,0,0
+12232,Darts,122,2,0,0,0,0
+12233,Hiking,122,2,0,0,0,0
+12234,Karate,122,2,0,0,0,0
+12235,Skateboarding,122,2,0,0,0,0
+12236,Sports & Outdoor Apparels,122,2,0,0,0,0
+1223610,Sets,12236,3,0,0,0,0
+1223611,Jackets,12236,3,0,0,0,0
+1223612,Tops,12236,3,0,0,0,0
+1223613,Bottoms,12236,3,0,0,0,0
+1223614,Sports Bras,12236,3,0,0,0,0
+12237,Sports & Outdoor Accessories,122,2,0,0,0,0
+1223710,Shoe Bags,12237,3,0,0,0,0
+1223711,Sports Wristbands,12237,3,0,0,0,0
+1223712,Sports Headbands,12237,3,0,0,0,0
+1223713,Rain Coats,12237,3,0,0,0,0
+1223714,Umbrellas,12237,3,0,0,0,0
+1223715,"	
+Mouthguards & Sport Tapes",12237,3,0,0,0,0
+1223716,Training Equipments,12237,3,0,0,0,0
+12238,Futsal & Sepak Takraw,122,2,0,0,0,0
+12239,Others,122,2,0,0,0,0
+123,Stationery,0,1,0,0,0,0
+12310,Gift & Wrapping,123,2,0,0,0,0
+1231010,Gift Wrappers,12310,3,0,0,0,0
+1231011,Gift Boxes,12310,3,0,0,0,0
+1231012,Gift Bags,12310,3,0,0,0,0
+1231013,Ribbons,12310,3,0,0,0,0
+1231014,Bubble Wraps,12310,3,0,0,0,0
+1231015,Carton Boxes,12310,3,0,0,0,0
+1231016,Others,12310,3,0,0,0,0
+12311,School & Office Equipment,123,2,0,0,0,0
+1231110,"Pens, Pencils & Inks",12311,3,0,0,0,0
+1231111,Eraser & Correction Tools,12311,3,0,0,0,0
+1231112,Marker Pens & Chalks,12311,3,0,0,0,0
+1231113,White or Black Board Dusters,12311,3,0,0,0,0
+1231114,Writing Boards & Board Stands,12311,3,0,0,0,0
+1231115,Pen Knives & Paper Cutters,12311,3,0,0,0,0
+1231116,Strings & Tapes,12311,3,0,0,0,0
+1231117,Lanyards & Name Tags,12311,3,0,0,0,0
+1231118,"Clips, Pins & Tacks",12311,3,0,0,0,0
+1231119,Hole Punchers,12311,3,0,0,0,0
+1231120,Scissors,12311,3,0,0,0,0
+1231121,Staplers & Staples,12311,3,0,0,0,0
+1231122,Calendars,12311,3,0,0,0,0
+1231123,Folders & Paper Organizers,12311,3,0,0,0,0
+1231124,"Rulers, Protractors & Stencils",12311,3,0,0,0,0
+1231125,Sharpeners,12311,3,0,0,0,0
+1231126,Pencil Cases,12311,3,0,0,0,0
+1231127,Sticky Notes & Bookmarks,12311,3,0,0,0,0
+1231128,Others,12311,3,0,0,0,0
+12312,Art Supplies,123,2,0,0,0,0
+1231210,Color Pencils,12312,3,0,0,0,0
+1231211,Paint Brushes,12312,3,0,0,0,0
+1231212,Paint Palettes,12312,3,0,0,0,0
+1231213,Canvases & Easels,12312,3,0,0,0,0
+12313,Notebooks & Papers,123,2,0,0,0,0
+1231310,Book Covers,12313,3,0,0,0,0
+1231311,Thermal Paper & Continuous Paper,12313,3,0,0,0,0
+1231312,Loose Leaf,12313,3,0,0,0,0
+1231313,Memo & Sticky Notes,12313,3,0,0,0,0
+1231314,Art Paper & Boards,12313,3,0,0,0,0
+1231315,Notebooks & Notepads,12313,3,0,0,0,0
+1231316,Labels & Stickers,12313,3,0,0,0,0
+1231317,Others,12313,3,0,0,0,0
+12314,Letters & Envelopes,123,2,0,0,0,0
+1231410,Envelopes & Angpao,12314,3,0,0,0,0
+1231411,Post Cards,12314,3,0,0,0,0
+1231412,Postage Stamps & Duty Stamps,12314,3,0,0,0,0
+12315,Others,123,2,0,0,0,0
+124,Hobbies & Collections,0,1,0,0,0,0
+12410,Collectible Items,124,2,0,0,0,0
+1241010,Action Figurines,12410,3,0,0,0,0
+1241011,Statues & Sculptures,12410,3,0,0,0,0
+1241012,Mecha Models & Diecast,12410,3,0,0,0,0
+1241013,Vehicle Models & Diecast,12410,3,0,0,0,0
+1241014,Stones & Minerals,12410,3,0,0,0,0
+1241015,Anime & Manga Collectibles,12410,3,0,0,0,0
+1241016,Coins & Bank Notes,12410,3,0,0,0,0
+1241017,Others,12410,3,0,0,0,0
+12411,Souvenirs,124,2,0,0,0,0
+1241110,Hand Fans,12411,3,0,0,0,0
+1241111,Keychains,12411,3,0,0,0,0
+1241112,Coin Banks,12411,3,0,0,0,0
+1241113,Fridge Magnets,12411,3,0,0,0,0
+1241114,Others,12411,3,0,0,0,0
+12412,Toys & Games,124,2,0,0,0,0
+1241210,Magic Toys,12412,3,0,0,0,0
+1241211,Prank Toys,12412,3,0,0,0,0
+1241212,Puzzles,12412,3,0,0,0,0
+1241213,Spinning Tops,12412,3,0,0,0,0
+1241214,Kendamas,12412,3,0,0,0,0
+1241215,Remote Control Toys & Accessories,12412,3,0,0,0,0
+1241216,Capsule Toys,12412,3,0,0,0,0
+1241217,Others,12412,3,0,0,0,0
+12413,Musical Instruments & Accessories,124,2,0,0,0,0
+1241310,Keyboards & Pianos,12413,3,0,0,0,0
+1241311,Percussion Instruments,12413,3,0,0,0,0
+1241312,Wind Instruments,12413,3,0,0,0,0
+1241313,Music Accessories,12413,3,0,0,0,0
+1241314,String Instruments,12413,3,0,0,0,0
+124131410,Ukuleles,1241314,4,0,0,0,0
+124131411,Guitars & Bass Guitars,1241314,4,0,0,0,0
+124131412,Others,1241314,4,0,0,0,0
+12414,Vinyl Records,124,2,0,0,0,0
+12415,Photo Albums,124,2,0,0,0,0
+12416,Needlework,124,2,0,0,0,0
+125,Automobiles,0,1,0,0,0,0
+12510,Automobile Interior Accessories,125,2,0,0,0,0
+1251010,Navigation & AV Receivers,12510,3,0,0,0,0
+1251011,Organizers & Compartments,12510,3,0,0,0,0
+1251012,Carpets & Mats,12510,3,0,0,0,0
+1251013,Seat Headrests & Back Supports,12510,3,0,0,0,0
+1251014,Car Mattresses,12510,3,0,0,0,0
+1251015,Steering Wheels & Covers,12510,3,0,0,0,0
+1251016,Seats & Seat Covers,12510,3,0,0,0,0
+1251017,Phone Holders,12510,3,0,0,0,0
+1251018,Pedals & Gear Sticks,12510,3,0,0,0,0
+1251019,Sun Shields & Dash Covers,12510,3,0,0,0,0
+1251020,Locks & Security,12510,3,0,0,0,0
+1251021,Camcorders & Parking Cameras,12510,3,0,0,0,0
+1251022,"HUD, Speedometers & Gauges",12510,3,0,0,0,0
+1251023,Others,12510,3,0,0,0,0
+12511,Automobile Exterior Accessories,125,2,0,0,0,0
+1251110,Garnish,12511,3,0,0,0,0
+1251111,Antennas,12511,3,0,0,0,0
+1251112,Covers,12511,3,0,0,0,0
+1251113,"Stickers, Logos & Emblems",12511,3,0,0,0,0
+1251114,Mud Flaps & Splash Guards,12511,3,0,0,0,0
+1251115,Sill Plates,12511,3,0,0,0,0
+1251116,Gutters,12511,3,0,0,0,0
+1251117,Horns & Accessories,12511,3,0,0,0,0
+1251118,Mirrors & Accessories,12511,3,0,0,0,0
+1251119,License Plate Accessories,12511,3,0,0,0,0
+1251120,Others,12511,3,0,0,0,0
+12512,Automobile Spare Parts,125,2,0,0,0,0
+1251210,"Body, Frame & Bumpers",12512,3,0,0,0,0
+1251211,Windshield Wipers & Washers,12512,3,0,0,0,0
+1251212,Tires & Accessories,12512,3,0,0,0,0
+1251213,"Shocks, Struts & Suspension",12512,3,0,0,0,0
+1251214,"Radiators, Engine Cooling & Climate Control",12512,3,0,0,0,0
+1251215,"Drivetrain, Transmission & Clutches",12512,3,0,0,0,0
+1251216,Bearing & Seals,12512,3,0,0,0,0
+1251217,Engine Parts,12512,3,0,0,0,0
+1251218,"Belts, Hoses & Pulleys",12512,3,0,0,0,0
+1251219,Electronics,12512,3,0,0,0,0
+125121910,Ignition Coils,1251219,4,0,0,0,0
+125121911,Spark Plugs,1251219,4,0,0,0,0
+125121912,Lighting,1251219,4,0,0,0,0
+125121913,Others,1251219,4,0,0,0,0
+1251220,Fuel System,12512,3,0,0,0,0
+12513,Automotive Tools,125,2,0,0,0,0
+12514,Automotive Keychains & Key Covers,125,2,0,0,0,0
+126,Motorcycles,0,1,0,0,0,0
+12610,Motorcycle Accessories,126,2,0,0,0,0
+1261010,Carpets,12610,3,0,0,0,0
+1261011,"Speedometers, Odometers & Gauges",12610,3,0,0,0,0
+1261012,Covers,12610,3,0,0,0,0
+1261013,"Stickers, Logos & Emblems",12610,3,0,0,0,0
+1261014,Seats & Seat Covers,12610,3,0,0,0,0
+1261015,Mirrors & Accessories,12610,3,0,0,0,0
+1261016,Phone Holders,12610,3,0,0,0,0
+1261017,Mud Flaps & Splash Guards,12610,3,0,0,0,0
+1261018,Others,12610,3,0,0,0,0
+12611,Motorcycle Spare Parts,126,2,0,0,0,0
+1261110,Ignition & Engine Parts,12611,3,0,0,0,0
+126111010,Radiators,1261110,4,0,0,0,0
+126111011,Pistons,1261110,4,0,0,0,0
+126111012,CDI & ECU,1261110,4,0,0,0,0
+126111013,Spark Plugs,1261110,4,0,0,0,0
+126111014,Ignition Coils,1261110,4,0,0,0,0
+126111015,V-Belts,1261110,4,0,0,0,0
+126111016,Air Filters,1261110,4,0,0,0,0
+126111017,Others,1261110,4,0,0,0,0
+1261111,Fuel System,12611,3,0,0,0,0
+1261112,Brake System,12611,3,0,0,0,0
+1261113,"Shocks, Struts & Suspension",12611,3,0,0,0,0
+1261114,"Drivetrain, Transmission & Clutches",12611,3,0,0,0,0
+126111410,Chains & Gears,1261114,4,0,0,0,0
+126111411,Clutches,1261114,4,0,0,0,0
+126111412,Bearings,1261114,4,0,0,0,0
+1261115,Cables & Tubes,12611,3,0,0,0,0
+1261116,Body & Frame,12611,3,0,0,0,0
+1261117,Exhaust & Emissions,12611,3,0,0,0,0
+1261118,"Wheels, Rims & Accessories",12611,3,0,0,0,0
+1261119,Tires & Accessories,12611,3,0,0,0,0
+1261120,Lighting,12611,3,0,0,0,0
+1261121,Others,12611,3,0,0,0,0
+12612,Motorcycle Helmets & Accessories,126,2,0,0,0,0
+12613,Others,126,2,0,0,0,0
+127,"Tickets, Vouchers & Services",0,1,0,0,0,0
+12710,Events & Attractions,127,2,0,0,0,0
+1271010,Theme Parks & Attractions,12710,3,0,0,0,0
+1271011,"Events, Fairs & Conferences",12710,3,0,0,0,0
+1271012,Movies,12710,3,0,0,0,0
+1271013,Concerts & Exhibitions,12710,3,0,0,0,0
+12711,F&B,127,2,0,0,0,0
+12712,Shopping,127,2,0,0,0,0
+12713,Utilities,127,2,0,0,0,0
+12714,Services,127,2,0,0,0,0
+1271410,Housekeeping,12714,3,0,0,0,0
+1271411,Delivery & Moving,12714,3,0,0,0,0
+1271412,Air-Conditioning Servicing,12714,3,0,0,0,0
+1271413,Photography & Printing,12714,3,0,0,0,0
+1271414,Design,12714,3,0,0,0,0
+12715,Beauty & Wellness,127,2,0,0,0,0
+1271510,Health,12715,3,0,0,0,0
+1271511,Dental,12715,3,0,0,0,0
+1271512,Fitness,12715,3,0,0,0,0
+1271513,Hair,12715,3,0,0,0,0
+1271514,Spa & Massage,12715,3,0,0,0,0
+12716,Transport,127,2,0,0,0,0
+12717,Lessons & Workshops,127,2,0,0,0,0
+12718,Telco,127,2,0,0,0,0
+1271810,Internet & Cable TV,12718,3,0,0,0,0
+1271811,Mobile Data,12718,3,0,0,0,0
+1271812,Mobile Top-ups & Pre-paid,12718,3,0,0,0,0
+12719,Travel,127,2,0,0,0,0
+1271910,Accommodation,12719,3,0,0,0,0
+1271911,Hot Springs,12719,3,0,0,0,0
+1271912,Flights,12719,3,0,0,0,0
+1271913,Trains,12719,3,0,0,0,0
+1271914,Buses,12719,3,0,0,0,0
+1271915,Car Rentals,12719,3,0,0,0,0
+1271916,Tour & Packages,12719,3,0,0,0,0
+12720,Gaming & App Stores,127,2,0,0,0,0
+128,Books & Magazines,0,1,0,0,0,0
+12810,Magazines & Newspaper,128,2,0,0,0,0
+1281010,Business,12810,3,0,0,0,0
+1281011,Lifestyle,12810,3,0,0,0,0
+1281012,Teenager,12810,3,0,0,0,0
+1281013,Others,12810,3,0,0,0,0
+12811,Books,128,2,0,0,0,0
+1281110,Children's Books,12811,3,0,0,0,0
+1281111,Recipes & Cooking,12811,3,0,0,0,0
+1281112,Language Learning & Dictionaries,12811,3,0,0,0,0
+1281113,Classic Literature,12811,3,0,0,0,0
+1281114,Romance,12811,3,0,0,0,0
+1281115,Religion & Philosophy,12811,3,0,0,0,0
+1281116,Others,12811,3,0,0,0,0
+12812,E-Books,128,2,0,0,0,0
+129,Computers & Accessories,0,1,0,0,0,0
+12910,Desktop Computers,129,2,0,0,0,0
+1291010,Desktop PC,12910,3,0,0,0,0
+1291011,Mini PC,12910,3,0,0,0,0
+1291012,Server PC,12910,3,0,0,0,0
+1291013,All-in-One Desktops,12910,3,0,0,0,0
+12911,Laptops,129,2,0,0,0,0
+1291110,Office Laptops,12911,3,0,0,0,0
+1291111,Gaming Laptops,12911,3,0,0,0,0
+1291112,Student Laptops,12911,3,0,0,0,0
+1291113,Programming Laptops,12911,3,0,0,0,0
+1291114,All-in-One Laptops,12911,3,0,0,0,0
+12912,Monitors,129,2,0,0,0,0
+12913,Desktop & Laptop Components,129,2,0,0,0,0
+1291310,Motherboards,12913,3,0,0,0,0
+1291311,Power Supply Units,12913,3,0,0,0,0
+1291312,RAM,12913,3,0,0,0,0
+1291313,UPS & Stabilizers,12913,3,0,0,0,0
+1291314,PC Cases,12913,3,0,0,0,0
+1291315,Optical Drives,12913,3,0,0,0,0
+1291316,Sound Cards,12913,3,0,0,0,0
+12914,Data Storage,129,2,0,0,0,0
+1291410,Internal Hard Disk,12914,3,0,0,0,0
+1291411,Extertnal Hard Disk,12914,3,0,0,0,0
+1291412,Pen Drive,12914,3,0,0,0,0
+1291413,SD & Micro SD,12914,3,0,0,0,0
+12915,Network Components,129,2,0,0,0,0
+1291510,Wireless Adapters & Network Cards,12915,3,0,0,0,0
+1291511,Network Switches & PoE,12915,3,0,0,0,0
+12916,Office Equipment,129,2,0,0,0,0
+1291610,Typewriters,12916,3,0,0,0,0
+1291611,Absence Machines,12916,3,0,0,0,0
+1291612,Paper Shredders,12916,3,0,0,0,0
+1291613,Money Counters,12916,3,0,0,0,0
+12917,Printers & Scanners,129,2,0,0,0,0
+1291710,"Printers, Scanners & Photocopy Machines",12917,3,0,0,0,0
+1291711,Thermal & Barcode Printers,12917,3,0,0,0,0
+1291712,3D Printers,12917,3,0,0,0,0
+1291713,Others,12917,3,0,0,0,0
+12918,Peripherals & Accessories,129,2,0,0,0,0
+1291810,Webcams,12918,3,0,0,0,0
+1291811,Laptop Skins & Covers,12918,3,0,0,0,0
+1291812,Cooling Pads,12918,3,0,0,0,0
+1291813,Laptop Stands & Foldable Laptop Desks,12918,3,0,0,0,0
+1291814,Keyboard & Trackpad Covers,12918,3,0,0,0,0
+1291815,Laptop Batteries,12918,3,0,0,0,0
+1291816,Laptop Chargers & Adaptors,12918,3,0,0,0,0
+1291817,Video Conference Devices,12918,3,0,0,0,0
+1291818,Mouse Pads,12918,3,0,0,0,0
+12919,Keyboards & Mice,129,2,0,0,0,0
+1291910,Mouse Pads,12919,3,0,0,0,0
+1291911,Keyboards,12919,3,0,0,0,0
+1291912,Others,12919,3,0,0,0,0
+130,Religious Supplies,0,1,0,0,0,0
+13010,Islam,130,2,0,0,0,0
+1301010,Books,13010,3,0,0,0,0
+1301011,Prayer Equipements,13010,3,0,0,0,0
+1301012,Outfit,13010,3,0,0,0,0
+1301013,Accessories,13010,3,0,0,0,0
+13011,Hinduism,130,2,0,0,0,0
+1301110,Books,13011,3,0,0,0,0
+1301111,Prayer Equipements,13011,3,0,0,0,0
+1301112,Outfit,13011,3,0,0,0,0
+1301113,Accessories,13011,3,0,0,0,0
+13012,Buddhism,130,2,0,0,0,0
+1301210,Books,13012,3,0,0,0,0
+1301211,Prayer Equipements,13012,3,0,0,0,0
+1301212,Outfit,13012,3,0,0,0,0
+1301213,Accessories,13012,3,0,0,0,0
+13013,Christianity,130,2,0,0,0,0
+1301310,Books,13013,3,0,0,0,0
+1301311,Prayer Equipements,13013,3,0,0,0,0
+1301312,Outfit,13013,3,0,0,0,0
+1301313,Accessories,13013,3,0,0,0,0
+13014,Judaism,130,2,0,0,0,0
+1301410,Books,13014,3,0,0,0,0
+1301411,Prayer Equipements,13014,3,0,0,0,0
+1301412,Outfit,13014,3,0,0,0,0
+1301413,Accessories,13014,3,0,0,0,0
+13015,Sikhism,130,2,0,0,0,0
+1301510,Books,13015,3,0,0,0,0
+1301511,Prayer Equipements,13015,3,0,0,0,0
+1301512,Outfit,13015,3,0,0,0,0
+1301513,Accessories,13015,3,0,0,0,0
+13016,Jainism,130,2,0,0,0,0
+1301610,Books,13016,3,0,0,0,0
+1301611,Prayer Equipements,13016,3,0,0,0,0
+1301612,Outfit,13016,3,0,0,0,0
+1301613,Accessories,13016,3,0,0,0,0
+13017,Folk religions,130,2,0,0,0,0
+1301710,Books,13017,3,0,0,0,0
+1301711,Prayer Equipements,13017,3,0,0,0,0
+1301712,Outfit,13017,3,0,0,0,0
+1301713,Accessories,13017,3,0,0,0,0
+13018,Shinto,130,2,0,0,0,0
+1301810,Books,13018,3,0,0,0,0
+1301811,Prayer Equipements,13018,3,0,0,0,0
+1301812,Outfit,13018,3,0,0,0,0
+1301813,Accessories,13018,3,0,0,0,0
+13019,Other religions,130,2,0,0,0,0
+1301910,Books,13019,3,0,0,0,0
+1301911,Prayer Equipements,13019,3,0,0,0,0
+1301912,Outfit,13019,3,0,0,0,0
+1301913,Accessories,13019,3,0,0,0,0
